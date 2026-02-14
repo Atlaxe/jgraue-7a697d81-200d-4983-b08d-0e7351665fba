@@ -1,0 +1,8 @@
+{
+  "name": "@jgraue-7a697d81-200d-4983-b08d-0e7351665fba/dashboard-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "dashboard-e2e"
+  }
+}
